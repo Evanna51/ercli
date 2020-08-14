@@ -1,11 +1,12 @@
 A Simple Cli Base React
 
-It will add: 
+It will add:
+
 - [ ] general template html
-- [ ] React(^16.8) and initial App
+- [x] React(^16.8) and initial App
 - [ ] React-Router
 - [ ] Async React Component
-- [ ] less-loader
+- [x] less-loader
 - [ ] CSS Modules
 - [ ] HMR
 - [ ] SplitChunks
